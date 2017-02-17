@@ -1,5 +1,7 @@
-title: Minimal theme
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Azri Rosehaizat
+description: Software Developer
+show_downloads: false
 google_analytics:
-theme: 
+theme: jekyll-theme-minimal
+port: 8080
+host: 0.0.0.0
