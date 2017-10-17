@@ -29,4 +29,4 @@ message:
 ```
 ## [](#header-2)Interesting Reads
 
-*   [The Limits of Quantum Computer](http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf).
+*   [The Limits of Quantum Computer](http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf)
