@@ -32,3 +32,4 @@ message:
 * [The Limits of Quantum Computer](http://www.cs.virginia.edu/~robins/The_Limits_of_Quantum_Computers.pdf)
 * [The Arithmetic of Active Management](https://web.stanford.edu/~wfsharpe/art/active/active.htm)
 * [When Hubble Stared at Nothing for 100 Hours](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
+* [1800s Astronomical Drawings vs. NASA Images](https://www.nypl.org/blog/2016/08/19/1800s-astronomical-drawings)
