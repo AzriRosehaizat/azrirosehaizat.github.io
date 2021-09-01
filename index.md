@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1) Site Under Construction
+# [](#header-1) 
 
 
 ```nasm
@@ -33,3 +33,4 @@ message:
 * [The Arithmetic of Active Management](https://web.stanford.edu/~wfsharpe/art/active/active.htm)
 * [When Hubble Stared at Nothing for 100 Hours](https://www.nationalgeographic.com/science/phenomena/2015/04/24/when-hubble-stared-at-nothing-for-100-hours/)
 * [1800s Astronomical Drawings vs. NASA Images](https://www.nypl.org/blog/2016/08/19/1800s-astronomical-drawings)
+* [The Art of Not Taking Things Personally](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172)
